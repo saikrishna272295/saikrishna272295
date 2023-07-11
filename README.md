@@ -19,7 +19,7 @@
 
 ##### Some of the technologies & tools I have worked with
 
-![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
