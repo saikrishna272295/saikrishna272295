@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Sai Krishna!](https://github.com/saikrishna272295/saikrishna272295/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/saikrishna272295/saikrishna272295/main/assets/animation_500_kxa883sd.gif" />
 
 ## I'm a Sr Java Full Stack Developer
 
