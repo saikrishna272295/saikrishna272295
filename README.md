@@ -20,7 +20,6 @@
 ##### Some of the technologies & tools I have worked with
 
 ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=DD0031)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![Java SpringBoot](https://img.shields.io/badge/-SpringBoot-222222?style=flat&logo=springboot&logoColor=6DB33F)
@@ -29,8 +28,6 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-222222?style=flat&logo=oracle&logoColor=FF0000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=2F6792)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=6DB33F)
-![Scala](https://img.shields.io/badge/-Scala-222222?style=flat&logo=Scala&logoColor=61DAFB)
-![Spark](https://img.shields.io/badge/-ApacheSpark-222222?style=flat&logo=Apache-Spark&logoColor=61DAFB)
 ![Amazon Web Services](https://img.shields.io/badge/-AmazonWebServices-222222?style=flat-square&logo=amazon-web-services)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -42,7 +39,6 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=bitbucket&logoColor=2684FF)
-![SubVersion](https://img.shields.io/badge/-SubVersion-222222?style=flat&logo=SubVersion&logoColor=819DCA)
 ![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=Postman&logoColor=F05032)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=FAD7B7)
 ![Swagger](https://img.shields.io/badge/-Swagger-222222?style=flat&logo=Swagger&logoColor=6D9A00)
