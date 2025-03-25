@@ -23,6 +23,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![Java SpringBoot](https://img.shields.io/badge/-SpringBoot-222222?style=flat&logo=springboot&logoColor=6DB33F)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-222222?style=flat&logo=apache-kafka&logoColor=000000)
 ![Struts](https://img.shields.io/badge/-Struts-222222?style=flat&logo=struts&logoColor=6DB33F)
 ![Mysql](https://img.shields.io/badge/-Mysql-222222?style=flat&logo=mysql&logoColor=00618A)
 ![Oracle](https://img.shields.io/badge/-Oracle-222222?style=flat&logo=oracle&logoColor=FF0000)
