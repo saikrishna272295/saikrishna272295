@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/saikrishna272295/saikrishna272295/main/assets/animation_500_kxa883sd.gif" />
 
-## I'm a Java Developer
+## I'm a Java Full Stack Developer
 
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
